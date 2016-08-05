@@ -1,0 +1,14 @@
+layout_spectrum: 0.45011748652905226
+typography_spectrum: 0.5710527230985463
+color:
+  brandStrength: 0.0637712839525193
+  lightness: 0.8667379263788462
+  saturation: 0.15467888861894608
+  rhythmicContrast: 0.08900521020404994
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: DC photo
