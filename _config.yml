@@ -6,9 +6,9 @@ color:
   saturation: 0.15467888861894608
   rhythmicContrast: 0.08900521020404994
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#703030'
+    - '#2F343B'
+    - '#7E827A'
+    - '#E3CDA4'
+    - '#C77966'
 name: DC photo
